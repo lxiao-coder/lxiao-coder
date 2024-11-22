@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @lxiao-coder
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ... Data Lake, ML, AL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:  
+- 👋 Hi, I’m Leon Xiao
+- 👀 I’m interested in playing hiking, playing pingpong, cooking(maybe).
+- 🌱 I’m currently learning ML/AL.
+- 💞️ I’m looking to collaborate on anything.
+- ⚡ Fun fact:  I once lived at sea for several months.
 
 <!---
 lxiao-coder/lxiao-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
