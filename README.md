@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leon Xiao
 - 👀 I’m interested in playing hiking, playing pingpong, cooking(maybe).
-- 🌱 I’m currently learning ML/AL.
+- 🌱 I’m currently learning ML/AI.
 - 💞️ I’m looking to collaborate on anything.
 - ⚡ Fun fact:  I once lived at sea for several months.
 
